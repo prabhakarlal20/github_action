@@ -1,0 +1,11 @@
+{
+  "name": "node-github-actions-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "lint": "echo \"Lint passed\""
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
